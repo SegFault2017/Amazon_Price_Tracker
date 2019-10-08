@@ -1,0 +1,24 @@
+{
+  "name": "amazon_price_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SegFault2017/Amazon_Price_Traker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SegFault2017/Amazon_Price_Traker/issues"
+  },
+  "homepage": "https://github.com/SegFault2017/Amazon_Price_Traker#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "dotenv": "^8.1.0",
+    "nightmare": "^3.0.2"
+  }
+}
